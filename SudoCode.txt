@@ -1,0 +1,30 @@
+Sudo Code is where you break down what you have to do until you can't break anything down anymore (plain english).
+Its a Guide / Map to follow so you know what you have to implement.
+________________________________________________________________________
+
+
+Rename the text file with the date in the file and save the filename with the date as a suffix 
+  Locate the file
+    Get correct file information
+      Get the correct filename
+      Get the correct file path
+    Go to correct location
+      Go to correct drive
+      Go to correct folder on the drive
+    Ensure file exists in the folder
+      <done>
+  Open the file
+    <done>
+  Read file
+    <done>
+  Store the date information
+    <done>
+  Close file
+    <done>
+  Build the new filename
+    Drop the file extension (.txt)
+    Store result
+    Combine result with '-' and stored date information
+    Add back the file extension
+  Rename file with new filename
+    <done>
